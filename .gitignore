@@ -1,0 +1,8 @@
+# Ignorar archivos CSV en la carpeta de datos
+/data/
+# Ignorar notebooks
+*.ipynb                                                                                                                                        # Environments
+.env
+.venv
+env/
+venv/
